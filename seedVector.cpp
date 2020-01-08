@@ -11,9 +11,9 @@
 using string_vector_t = std::vector<std::string> ;
 
 // Defining integers types and sizes
-using seed_pos_t = uint16_t;
-using read_id_t  = uint16_t;
-using flag_t     = uint16_t;
+using seed_pos_t = uint32_t;
+using read_id_t  = uint32_t;
+using flag_t     = uint32_t;
 
 // First parsing, gathering data on the file
 using seed_number_map_t = std::unordered_map<read_id_t, uint32_t>;
