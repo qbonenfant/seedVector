@@ -1,0 +1,5 @@
+This is a test edge file for debugging
+read0	100	read1	100	0	1	3,3	20,60
+read0	100	read2	100	0	1	20,5	60,45
+read3	100	read1	100	0	1	45,15	40,40
+read3	100	read2	100	0	1	20,20	60,60
